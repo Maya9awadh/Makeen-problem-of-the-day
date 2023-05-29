@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-problem 5,
+problem 6,
 rotate the list to the left
 """
 import collections
